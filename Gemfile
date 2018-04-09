@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails',                   '5.1.4'
+gem 'bootstrap-sass',          '3.3.7'
 gem 'faker',                   '1.7.3'
 gem 'carrierwave',             '1.2.2'
 gem 'mini_magick',             '4.7.0'
